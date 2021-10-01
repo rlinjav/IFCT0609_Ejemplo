@@ -5,6 +5,7 @@ public class GitHubTest1 {
 		// TODO Auto-generated method stub
 		// Codigo que añade keytor
 		System.out.println("Welcome git!!!!!");
+		System.out.println("nuevo commit");
 	}
 
 }
